@@ -1,4 +1,4 @@
-# Hi, I'm Wanderley Corrêa 👋
+# ✌️ Eae, me chamo Wanderley Corrêa
 * 🎓 Estudante do curso Ciência da Computação - IFSC
 
 * 📚 Estagiário de TI | Suporte de Campo & Infraestrutura
@@ -7,9 +7,20 @@
    
 ## 🚀 Skills
 
+
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+   &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+   &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"  />
+    &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+</div>
+
 ---
 
-## 🌐 Socials
+## 🌐  Socials
 
 <div>
   <a href="https://www.instagram.com/4ndre_correa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,5 +31,3 @@
 
 ---
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wanderley-ac&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-ac&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
