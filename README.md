@@ -1,12 +1,16 @@
-# ✌️ Eae, me chamo Wanderley Corrêa
+<h2>
+  <img src="./images/programmer.png" width="65" align="center">
+  Hey, my name is Wanderley Corrêa ✌️
+</h2>
+
+
 * 🎓 Estudante do curso Ciência da Computação - IFSC
 
 * 📚 Estagiário de TI | Suporte de Campo & Infraestrutura
+  
 ---
-
-   
-## 🚀 Skills
-
+ 
+## 🧠 Skills
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
@@ -30,4 +34,12 @@
 </div>
 
 ---
+
+## ⚡ Stats
+
+<div >
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wanderleyandrecorrea&show_icons=true&theme=tokyonight&count_private=true" height="170em" />
+    &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wanderleyandrecorrea&layout=compact&theme=tokyonight" height="120em" />
+</div>
 
